@@ -1,5 +1,5 @@
 # SnakeGame
-2019 C Snake Game
+2020 C Snake Game
 
 **기획 의도**
 
